@@ -1,7 +1,4 @@
 # UI Clone - Dropbox Homepage
-## Responsive Dropbox Homepage UI clone for study purposes.
-
-# UI Clone - Dropbox Homepage
 
 Responsive Dropbox Homepage UI clone for study purposes.
 
