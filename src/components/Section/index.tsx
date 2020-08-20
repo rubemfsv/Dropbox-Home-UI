@@ -24,7 +24,7 @@ const Section: React.FC<Props> = ({ variant, title, description }) => {
                         <span> Dropbox </span>
                     </h1>
 
-                    <button onClick={handleToggle}>{buttonVariant === 0 ? 'Acessar' : 'Interagir'} </button>
+                    <button onClick={handleToggle}>{buttonVariant === 0 ? 'Acessar' : 'Registrar'} </button>
                 </Header>
             </HeaderWrapper>
             <Content>
