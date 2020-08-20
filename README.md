@@ -8,3 +8,6 @@ Responsive Dropbox Homepage UI clone for study purposes.
 * Styled Components
 * TypeScript
 
+### Preview
+
+![video](src/assets/working.gif)
