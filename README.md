@@ -7,6 +7,7 @@ Responsive Dropbox Homepage UI clone for study purposes.
 * React.js
 * Styled Components
 * TypeScript
+* CSS clip (for header changes)
 
 ### Preview
 
